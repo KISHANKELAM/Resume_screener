@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+pandas
+scikit-learn
+streamlit
+python-docx
+pymupdf
+pillow
+pytesseract
+matplotlib
+seaborn

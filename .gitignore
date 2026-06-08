@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+
+# Ignore heavy model data and archives
+artifacts/
+.artifacts/
+*.zip
